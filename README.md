@@ -17,15 +17,17 @@
 
 Computer Network Management, Virtualization, Apple macOS, Cloud Infrastructure, Cybersecurity, Help Desk Support, Linux, 
 
-Mobile Device Management (**MDM**), Network Security, Operating Systems (**OS**), Routing Protocols, Software Define Networking (**SDN**),
+Mobile Device Management (**MDM**), Network Security, Operating Systems (**OS**), Routing Protocols, 
 
-System Administration, Technical Support, Troubleshooting, Antivirus Software, Backup and Recovery, Cloud Computing, Cryptography,
+Software Defined Networking (**SDN**), System Administration, Technical Support, Troubleshooting, Antivirus Software, 
 
-Cyber Defense, Digital Forensics, Domain Namee System (**DNS**), Dynamic Host Configuration Protocol (**DHCP**), Firewalls, Incident Response,
+Backup and Recovery, Cloud Computing, Cryptography, Cyber Defense, Digital Forensics, Domain Name System (**DNS**), 
 
-Information Technology, Infrastructure as Code (**IaC**), Intelligence Agencies, Local Area Networks (**LANs**), Malware Analysis, 
+Dynamic Host Configuration Protocol (**DHCP**), Firewalls, Incident Response, Information Technology, 
 
-Network Adminstration, Network Troubleshooting, Pentration Testing, System Configuration (**SC**), System Recovery, 
+Infrastructure as Code (**IaC**), Intelligence Agencies, Local Area Networks (**LANs**), Malware Analysis, 
+
+Network Administration, Network Troubleshooting, Penetration Testing, System Configuration (**SC**), System Recovery, 
 
 Virtual Private Networks (**VPN**), Vulnerability Management, Wireless Communications, Wireless Networks.
 <h2>🤳🏾Connect With Me:</h2>
