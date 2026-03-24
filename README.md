@@ -4,7 +4,7 @@
 <h2>👨🏽‍🎓Education:</h2>
 
 - <b>[Western Governors University](https://github.com/user-attachments/files/26213282/WESTERN.GOVERNORS.UNIVERSITY_enrollment_certificate.pdf)<b>
-    - Bachelor of Science, Cybersecurity and Information Assurance
+    - **Bachelor of Science**, **Cybersecurity and Information Assurance**
     - 01-01-2025 - 12-31-2027
 <h2>📄 Certifications:</h2>
 
@@ -14,6 +14,20 @@
 <a href="https://github.com/user-attachments/assets/eb22e516-280c-4ad3-aea8-e290b4a6be6b"> <img src="https://github.com/user-attachments/assets/eb22e516-280c-4ad3-aea8-e290b4a6be6b" width="300"/> </a>
 
 <h2>📚 Skills:</h2>
+
+Computer Network Management, Virtualization, Apple macOS, Cloud Infrastructure, Cybersecurity, Help Desk Support, Linux, 
+
+Mobile Device Management (**MDM**), Network Security, Operating Systems (**OS**), Routing Protocols, Software Define Networking (**SDN**),
+
+System Administration, Technical Support, Troubleshooting, Antivirus Software, Backup and Recovery, Cloud Computing, Cryptography,
+
+Cyber Defense, Digital Forensics, Domain Namee System (**DNS**), Dynamic Host Configuration Protocol (**DHCP**), Firewalls, Incident Response,
+
+Information Technology, Infrastructure as Code (**IaC**), Intelligence Agencies, Local Area Networks (**LANs**), Malware Analysis, 
+
+Network Adminstration, Network Troubleshooting, Pentration Testing, System Configuration (**SC**), System Recovery, 
+
+Virtual Private Networks (**VPN**), Vulnerability Management, Wireless Communications, Wireless Networks.
 <h2>🤳🏾Connect With Me:</h2>
 
 [<img align="left" alt="DontrellWilson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
