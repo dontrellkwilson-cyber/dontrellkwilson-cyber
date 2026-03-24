@@ -11,6 +11,7 @@
 <a href="https://github.com/user-attachments/assets/9003ed67-9151-4b56-bdea-5fa59ade715c"> <img src="https://github.com/user-attachments/assets/9003ed67-9151-4b56-bdea-5fa59ade715c" width="300"/> </a>
 <a href="https://github.com/user-attachments/assets/56abd4d7-1035-40b0-808e-a9089686ad6e"> <img src="https://github.com/user-attachments/assets/56abd4d7-1035-40b0-808e-a9089686ad6e" width="300"/> </a>
 <a href="https://github.com/user-attachments/assets/8e14656a-1ab4-404c-9bf2-13ca85cba1c9"> <img src="https://github.com/user-attachments/assets/8e14656a-1ab4-404c-9bf2-13ca85cba1c9" width="300"/> </a>
+<a href="https://github.com/user-attachments/assets/eb22e516-280c-4ad3-aea8-e290b4a6be6b"> <img src="https://github.com/user-attachments/assets/eb22e516-280c-4ad3-aea8-e290b4a6be6b" width="300"/> </a>
 
 <h2>📚 Skills:</h2>
 <h2>🤳🏾Connect With Me:</h2>
