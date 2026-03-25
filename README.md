@@ -15,20 +15,51 @@
 
 <h2>📚 Skills:</h2>
 
-- <b> **Security Operations and Threat Detection**:
-
-- <b> Network Security and Infrastructure:
-
-- <b> System and Administration:
-
-- <b> Cloud and Modern Infrastructure:
-
-- <b> IT Support and Operations:
-
-- <b> Offensive Security and Testing:
-
-- <b> Information Technology Fundamentals:
-
+- <b> **` Security Operations and Threat Detection `**
+    - Incident Response
+    - Vulnerability Management
+    - Cyber Defense
+    - SIEM
+    - Log Analysis
+    - Threat Analysis
+    - Malware Analysis
+    - Digital Forensics
+- <b> **` Network Security and Infrastructure  `**
+    - Firewalls
+    - VPN
+    - Network Security
+    - LANs
+    - Wireless Networks
+    - DNS
+    - DHCP
+    - Routing Protocols
+    - Network Troubleshooting
+    - SDN
+- <b> **` System and Administration  `**
+    - System Administration
+    - Linux
+    - macOS
+    - Operating Systems
+    - System Configuration
+    - Virtualization
+    - MDM
+- <b> **` Cloud and Modern Infrastructure  `**
+    - Cloud Computing
+    - Cloud Infrastructure
+    - Infrastructure as Code
+- <b> **` IT Support and Operations  `**
+    - Technical Support
+    - Help Desk Support
+    - Troubleshooting
+    - Backup and Recovery
+- <b> **` Offensive Security and Testing  `**
+    - Penetration Testing
+    - Cryptography
+- <b> **` Information Technology Fundamentals  `**
+    - Computer Network Management
+    - Network Administration
+    - Wireless Communications
+    - Information Technology
 <h2>🤳🏾Connect With Me:</h2>
 
 [<img align="left" alt="DontrellWilson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
