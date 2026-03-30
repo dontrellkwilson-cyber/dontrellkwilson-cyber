@@ -2,6 +2,7 @@
 <h2>👨🏽‍💻 IT Infrastructure Projects:</h2>
     
   - **[Introduction to Python Scripting Lab](https://github.com/dontrellkwilson-cyber/Introduction-to-Python-Scripting)**
+  - **[Introduction to Bash Scripting Lab](https://github.com/dontrellkwilson-cyber/Introduction-to-Bash-Scripting-Lab)**
   - **[Active Directory Home Lab](https://github.com/dontrellkwilson-cyber/ActiveDirectoryLab)**
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
