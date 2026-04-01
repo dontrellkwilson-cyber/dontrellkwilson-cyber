@@ -7,7 +7,7 @@
 
  **` Shell `**   
   - **[Introduction to Bash Scripting Lab](https://github.com/dontrellkwilson-cyber/Introduction-to-Bash-Scripting-Lab)**
-  - **[More Bash Scripting Lab](https://github.com/dontrellkwilson-cyber/Introduction-to-Bash-Scripting-Lab)**
+  - **[More Bash Scripting Lab](https://github.com/dontrellkwilson-cyber/More-Bash-Scripting-Lab)**
 
 **` IT Infrastructure `**   
   - **[Active Directory Home Lab](https://github.com/dontrellkwilson-cyber/ActiveDirectoryLab)**
