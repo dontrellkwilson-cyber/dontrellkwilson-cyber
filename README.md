@@ -9,8 +9,8 @@
   - **[Introduction to Bash Scripting Lab](https://github.com/dontrellkwilson-cyber/Introduction-to-Bash-Scripting-Lab)**
   - **[More Bash Scripting Lab](https://github.com/dontrellkwilson-cyber/Introduction-to-Bash-Scripting-Lab)**
 
-    
-**[Active Directory Home Lab](https://github.com/dontrellkwilson-cyber/ActiveDirectoryLab)**
+**` IT Infrastructure `**   
+  - **[Active Directory Home Lab](https://github.com/dontrellkwilson-cyber/ActiveDirectoryLab)**
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
