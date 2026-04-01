@@ -1,11 +1,16 @@
 <h1> Hi, I'm Dontrell! <br/><a href="https://github.com/dontrellkwilson-cyber">IT Operations Specialist</a>, <a href="https://www.linkedin.com/in/dontrellkwilson/">Secure Infrastructure Specialist<a>, <a href="https://www.credly.com/users/dontrellkwilson/">Cybersecurity Professional</a></a>
 <h2>👨🏽‍💻 IT Infrastructure Projects:</h2>
-    
+
+**` PowerShell `**    
   - **[Introduction to Python Scripting Lab](https://github.com/dontrellkwilson-cyber/Introduction-to-Python-Scripting)**
   - **[More Python Scripting Lab](https://github.com/dontrellkwilson-cyber/More-Python-Scripting-Lab)**
+
+ **` Shell `**   
   - **[Introduction to Bash Scripting Lab](https://github.com/dontrellkwilson-cyber/Introduction-to-Bash-Scripting-Lab)**
   - **[More Bash Scripting Lab](https://github.com/dontrellkwilson-cyber/Introduction-to-Bash-Scripting-Lab)**
-  - **[Active Directory Home Lab](https://github.com/dontrellkwilson-cyber/ActiveDirectoryLab)**
+
+    
+**[Active Directory Home Lab](https://github.com/dontrellkwilson-cyber/ActiveDirectoryLab)**
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
