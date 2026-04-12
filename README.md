@@ -47,9 +47,11 @@
     - Malware Analysis
     - Digital Forensics
 - <b> **` Network Security and Infrastructure  `**
-    - Firewalls
+    - Firewalls Configuration
+    - Secure Network Design
     - VPN
     - Network Security
+    - Traffic Filtering
     - LANs
     - Wireless Networks
     - DNS
@@ -82,6 +84,36 @@
     - Network Administration
     - Wireless Communications
     - Information Technology
+- <b> **` Access Control and Identity Management  `**
+     - Access Control
+     - Authentication Methods
+     - Authorization
+     - Identity Management
+- <b> **` Cryptography and Data Protection `**
+     - Cryptography
+     - Data Security
+     - Encryption Techniques
+     - Key Management
+- <b> **` Security Operations and Administration  `**
+     - Security Management
+     - Information Security Management
+     - Security Configuration
+     - Security Policies
+- <b> **` Threat Detection and Analysis  `**
+     - Threat Detection
+     - Threat Management
+     - Malware Identification
+     - Threat Analysis
+ - <b> **` Risk Management and Compliance  `**
+      - Security Awareness
+      - Disaster Recovery Planning
+      - Risk Mitigation
+      - Governance
+ - <b> **` Cybersecurity Investigation and Response  `**
+      - Cyber Forensics
+      - Incident Awareness
+      - Threat Investigation
+      - Mobile Device Security
 <h2>🤳🏾Connect With Me:</h2>
 
 [<img align="left" alt="DontrellWilson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
