@@ -11,6 +11,7 @@
 
 **` IT Infrastructure `**   
   - **[Active Directory Home Lab](https://github.com/dontrellkwilson-cyber/ActiveDirectoryLab)**
+  - **[Simulated Enterprise Network: Active Directory, Infrastructure, and Security Operations Lab]()
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
