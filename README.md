@@ -10,7 +10,7 @@
   - **[More Bash Scripting Lab](https://github.com/dontrellkwilson-cyber/More-Bash-Scripting-Lab)**
 
 **` IT Infrastructure `**   
-  - **[Enterprise Active Directory Lab with PowerShell Automation and Network Services]([https://github.com/dontrellkwilson-cyber/ActiveDirectoryLab](https://github.com/dontrellkwilson-cyber/Enterprise-Active-Directory-Lab-with-PowerShell-Automation-and-Network-Services)**
+  - **[Enterprise Active Directory Lab with PowerShell Automation and Network Services](https://github.com/dontrellkwilson-cyber/Enterprise-Active-Directory-Lab-with-PowerShell-Automation-and-Network-Services)**
   - **[Simulated Enterprise Network: Active Directory, Infrastructure, and Security Operations Lab]()
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
