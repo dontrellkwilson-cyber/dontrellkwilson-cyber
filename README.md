@@ -35,6 +35,7 @@
 <a href="https://github.com/user-attachments/assets/eb22e516-280c-4ad3-aea8-e290b4a6be6b"> <img src="https://github.com/user-attachments/assets/eb22e516-280c-4ad3-aea8-e290b4a6be6b" width="250"/></a>
 <a href="https://github.com/user-attachments/assets/f57988b2-b401-483a-ac17-d7f4602e59c8"> <img src="https://github.com/user-attachments/assets/f57988b2-b401-483a-ac17-d7f4602e59c8" width="250"/></a>
 
+<a href="https://github.com/user-attachments/assets/7fb86339-5ec5-4408-8edb-5f61e0575e9b"><img src="https://github.com/user-attachments/assets/7fb86339-5ec5-4408-8edb-5f61e0575e9b" width="250"/></a>
 
 <h2>📚 Skills:</h2>
 
