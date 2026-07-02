@@ -39,83 +39,28 @@
 
 <h2>📚 Skills:</h2>
 
-- <b> **` Security Operations and Threat Detection `**
-    - Incident Response
-    - Vulnerability Management
-    - Cyber Defense
-    - SIEM
-    - Log Analysis
-    - Threat Analysis
-    - Malware Analysis
-    - Digital Forensics
-- <b> **` Network Security and Infrastructure  `**
-    - Firewalls Configuration
-    - Secure Network Design
-    - VPN
-    - Network Security
-    - Traffic Filtering
-    - LANs
-    - Wireless Networks
-    - DNS
-    - DHCP
-    - Routing Protocols
-    - Network Troubleshooting
-    - SDN
-- <b> **` System and Administration  `**
-    - System Administration
-    - Linux
-    - macOS
-    - Operating Systems
-    - System Configuration
-    - Virtualization
-    - MDM
-- <b> **` Cloud and Modern Infrastructure  `**
-    - Cloud Computing
-    - Cloud Infrastructure
-    - Infrastructure as Code
-- <b> **` IT Support and Operations  `**
-    - Technical Support
-    - Help Desk Support
-    - Troubleshooting
-    - Backup and Recovery
-- <b> **` Offensive Security and Testing  `**
-    - Penetration Testing
-    - Cryptography
-- <b> **` Information Technology Fundamentals  `**
-    - Computer Network Management
-    - Network Administration
-    - Wireless Communications
-    - Information Technology
-- <b> **` Access Control and Identity Management  `**
-     - Access Control
-     - Authentication Methods
-     - Authorization
-     - Identity Management
-- <b> **` Cryptography and Data Protection `**
-     - Cryptography
-     - Data Security
-     - Encryption Techniques
-     - Key Management
-- <b> **` Security Operations and Administration  `**
-     - Security Management
-     - Information Security Management
-     - Security Configuration
-     - Security Policies
-- <b> **` Threat Detection and Analysis  `**
-     - Threat Detection
-     - Threat Management
-     - Malware Identification
-     - Threat Analysis
- - <b> **` Risk Management and Compliance  `**
-      - Security Awareness
-      - Disaster Recovery Planning
-      - Risk Mitigation
-      - Governance
- - <b> **` Cybersecurity Investigation and Response  `**
-      - Cyber Forensics
-      - Incident Awareness
-      - Threat Investigation
-      - Mobile Device Security
+| Category | Skills |
+|---|---|
+| **Security Operations and Threat Detection** | Incident Response • Vulnerability Management • Cyber Defense • SIEM • Log Analysis • Threat Analysis • Malware Analysis • Digital Forensics |
+| **Network Security and Infrastructure** | Firewall Configuration • Secure Network Design • VPN • Network Security • Traffic Filtering • LANs • Wireless Networks • DNS • DHCP • Routing Protocols • Network Troubleshooting • SDN |
+| **Systems and Administration** | System Administration • Linux • macOS • Operating Systems • System Configuration • Virtualization • MDM |
+| **Cloud and Modern Infrastructure** | Cloud Computing • Cloud Infrastructure • Infrastructure as Code |
+| **IT Support and Operations** | Technical Support • Help Desk Support • Troubleshooting • Backup and Recovery |
+| **Offensive Security and Testing** | Penetration Testing • Cryptography |
+| **Information Technology Fundamentals** | Computer Network Management • Network Administration • Wireless Communications • Information Technology |
+| **Access Control and Identity Management** | Access Control • Authentication Methods • Authorization • Identity Management |
+| **Cryptography and Data Protection** | Cryptography • Data Security • Encryption Techniques • Key Management |
+| **Security Operations and Administration** | Security Management • Information Security Management • Security Configuration • Security Policies |
+| **Threat Detection and Analysis** | Threat Detection • Threat Management • Malware Identification • Threat Analysis |
+| **Risk Management and Compliance** | Security Awareness • Disaster Recovery Planning • Risk Mitigation • Governance |
+| **Cybersecurity Investigation and Response** | Cyber Forensics • Incident Awareness • Threat Investigation • Mobile Device Security |
+| **IT Service Management and Support** | Service Desk • Incident Management • Problem Management • Service Delivery Management • Experience and Support |
+| **ITIL Service Operations** | Availability Management • Capacity Management • Release and Deployment • Service Support • Operational Improvement |
+| **Governance, Risk, and Security** | IT Systems Governance • Risk Management • Information Security Management • Compliance Awareness • Policy Alignment |
+| **Business and Relationship Management** | Business Relationship Management • Business Change Management • Stakeholder Management • Communication • Customer-Focused Service |
+| **User Experience and Service Value** | UX Design • Customer Experience • User Experience • Service Value • Value Co-Creation |
+| **Professional ITIL Skills** | Adaptability • Communication • Collaboration • Accountability • Process Improvement • Problem Solving |
+
 <h2>🤳🏾Connect With Me:</h2>
 
 [<img align="left" alt="DontrellWilson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
