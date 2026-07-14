@@ -27,6 +27,7 @@
 <h2>📄 Certifications:</h2>
 
  **[Foundations of Leadership – NSLS](https://app.nsls.org/web/public/social/share/clr/GZdGQAGxH82e72LCk5kFC2)**
+ **[Mastercard Cybersecurity Job Simulation.pdf](https://github.com/user-attachments/files/30027958/Mastercard.Cybersecurity.Job.Simulation.pdf)**
   
 <a href="https://github.com/user-attachments/assets/9003ed67-9151-4b56-bdea-5fa59ade715c"> <img src="https://github.com/user-attachments/assets/9003ed67-9151-4b56-bdea-5fa59ade715c" width="250"/></a>
 <a href="https://github.com/user-attachments/assets/56abd4d7-1035-40b0-808e-a9089686ad6e"> <img src="https://github.com/user-attachments/assets/56abd4d7-1035-40b0-808e-a9089686ad6e" width="250"/></a>
