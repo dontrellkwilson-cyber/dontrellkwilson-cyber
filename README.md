@@ -16,6 +16,7 @@
 **` Networking `**
   - **[ Cisco Packet Tracer Basic Routed Network Lab](https://github.com/dontrellkwilson-cyber/Cisco-Packet-Tracer-Basic-Routed-Network/blob/main/README.md)**
   - **[Cisco Packet Tracer Switch Basics and VLAN Segmentation Lab](https://github.com/dontrellkwilson-cyber/Cisco-Packet-Tracer-Switch-Basics-and-VLAN-Segmentation/blob/main/README.md)**
+  - **[Cisco Packet Tracer EIGRP Routing Lab](https://github.com/dontrellkwilson-cyber/Cisco-Packet-Tracer-EIGRP-Routing-Lab/blob/main/README.md)**
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
