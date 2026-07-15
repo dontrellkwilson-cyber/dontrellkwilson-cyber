@@ -13,6 +13,9 @@
   - **[Enterprise Active Directory Lab with PowerShell Automation and Network Services](https://github.com/dontrellkwilson-cyber/Enterprise-Active-Directory-Lab-with-PowerShell-Automation-and-Network-Services)**
   - **[Simulated Enterprise Network: Active Directory, Infrastructure, and Security Operations Lab]()
 
+ **`Virtualization`**
+  - **[VirtualBox Snapshot Creation and Restoration Lab](https://github.com/dontrellkwilson-cyber/VirtualBox-Snapshot-Creation-and-Restoration-Lab/blob/main/README.md)**
+ 
 **` Networking `**
   - **[Cisco Packet Tracer Basic Routed Network Lab](https://github.com/dontrellkwilson-cyber/Cisco-Packet-Tracer-Basic-Routed-Network/blob/main/README.md)**
   - **[Cisco Packet Tracer Switch Basics and VLAN Segmentation Lab](https://github.com/dontrellkwilson-cyber/Cisco-Packet-Tracer-Switch-Basics-and-VLAN-Segmentation/blob/main/README.md)**
