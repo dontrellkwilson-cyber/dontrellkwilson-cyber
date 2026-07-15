@@ -27,6 +27,13 @@
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
+**` Digital Forensics in Cybersecurity `**
+
+**` Information Security Systems `**
+
+**` Managing Information Security Systems `**
+
+
 
 
 <h2>👨🏽‍🎓Education:</h2>
