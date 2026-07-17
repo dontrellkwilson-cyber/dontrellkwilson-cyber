@@ -36,9 +36,9 @@
   - **[FinSecure Corp. Data Security and Systems Defense Review](https://github.com/dontrellkwilson-cyber/FinSecure-Corp-Data-Security-and-Systems-Defense-Review/blob/main/README.md)**
 
 **` Managing Information Security Systems `**
-  - **[GlobalBiz Solutions Inc. Information Security Governance, Risk, and Compliance Review](
-  - **[GlobalBiz Solutions Inc.Incident Response Plan Recommendations](
-  - **[GlobalBiz Solutions Inc. Security Management Program Incident Review](
+  - **[GlobalBiz Solutions Inc. Information Security Governance, Risk, and Compliance Review](https://github.com/dontrellkwilson-cyber/GlobalBiz-Solutions-Inc.-Information-Security-Governance-Risk-and-Compliance-Review/blob/main/README.md)**
+  - **[GlobalBiz Solutions Inc.Incident Response Plan Recommendations](https://github.com/dontrellkwilson-cyber/GlobalBiz-Solutions-Inc.-Incident-Response-Plan-Recommendations/blob/main/README.md)**
+  - **[GlobalBiz Solutions Inc. Security Management Program Incident Review](https://github.com/dontrellkwilson-cyber/GlobalBiz-Solutions-Inc.-Security-Management-Program-Incident-Review/blob/main/README.md)**
 
 
 
