@@ -29,9 +29,13 @@
 
 **` Digital Forensics in Cybersecurity `**
 
+
 **` Information Security Systems `**
   - **[FinSecure Security Operations](https://github.com/dontrellkwilson-cyber/FinSecure-Security-Operations)**
-  - 
+  - **[FinSecure Corp. Incident and Network Security Review](https://github.com/dontrellkwilson-cyber/FinSecure-Corp-Incident-and-Network-Security-Review)**
+  - **[FinSecure Corp. Data Security and Systems Defense Review](
+
+
 **` Managing Information Security Systems `**
 
 
