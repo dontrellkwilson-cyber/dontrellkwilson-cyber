@@ -33,7 +33,7 @@
 **` Information Security Systems `**
   - **[FinSecure Security Operations](https://github.com/dontrellkwilson-cyber/FinSecure-Security-Operations/blob/main/README.md)**
   - **[FinSecure Corp. Incident and Network Security Review](https://github.com/dontrellkwilson-cyber/FinSecure-Corp-Incident-and-Network-Security-Review/blob/main/README.md)**
-  - **[FinSecure Corp. Data Security and Systems Defense Review](
+  - **[FinSecure Corp. Data Security and Systems Defense Review](https://github.com/dontrellkwilson-cyber/FinSecure-Corp-Data-Security-and-Systems-Defense-Review/blob/main/README.md)**
 
 
 **` Managing Information Security Systems `**
