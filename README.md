@@ -28,7 +28,15 @@
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
 **` Digital Forensics in Cybersecurity `**
-
+  - **[Applying the Daubert Standard to Forensic Evidence](https://github.com/dontrellkwilson-cyber/Applying-the-Daubert-Standard-to-Forensic-Evidence/blob/main/README.md)**
+  - **[
+  - **[
+  - **[
+  - **[
+  - **[
+  - **[
+  - **[
+  - **[
 
 **` Information Security Systems `**
   - **[FinSecure Security Operations](https://github.com/dontrellkwilson-cyber/FinSecure-Security-Operations/blob/main/README.md)**
