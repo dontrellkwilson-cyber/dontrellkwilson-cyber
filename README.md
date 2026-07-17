@@ -11,7 +11,7 @@
 
 **` IT Infrastructure `**   
   - **[Enterprise Active Directory Lab with PowerShell Automation and Network Services](https://github.com/dontrellkwilson-cyber/Enterprise-Active-Directory-Lab-with-PowerShell-Automation-and-Network-Services)**
-  - **[Simulated Enterprise Network: Active Directory, Infrastructure, and Security Operations Lab]()
+  - **[Simulated Enterprise Network: Active Directory, Infrastructure, and Security Operations Lab](https://github.com/dontrellkwilson-cyber/Enterprise-Active-Directory-Security-Operations-Lab/blob/main/README.md#phase-vii)**
 
  **`Virtualization`**
   - **[VirtualBox Snapshot Creation and Restoration Lab](https://github.com/dontrellkwilson-cyber/VirtualBox-Snapshot-Creation-and-Restoration-Lab/blob/main/README.md)**
