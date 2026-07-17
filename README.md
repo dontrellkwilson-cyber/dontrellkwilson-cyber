@@ -29,7 +29,7 @@
 
 **` Digital Forensics in Cybersecurity `**
   - **[Applying the Daubert Standard to Forensic Evidence](https://github.com/dontrellkwilson-cyber/Applying-the-Daubert-Standard-to-Forensic-Evidence/blob/main/README.md)**
-  - **[
+  - **[Recovering Deleted and Damaged Files](https://github.com/dontrellkwilson-cyber/Recovering-Deleted-and-Damaged-Files/blob/main/README.md)**
   - **[
   - **[
   - **[
