@@ -32,6 +32,10 @@
   - **[Recovering Deleted and Damaged Files](https://github.com/dontrellkwilson-cyber/Recovering-Deleted-and-Damaged-Files/blob/main/README.md)**
   - **[Conducting Forensic Investigations on Windows Systems](https://github.com/dontrellkwilson-cyber/Conducting-Forensic-Investigations-on-Windows-Systems/blob/main/README.md)**
   - **[Conducting Forensic Investigations on Linux Systems](https://github.com/dontrellkwilson-cyber/Conducting-Forensic-Investigations-on-Linux-Systems/blob/main/README.md)**
+  - **[Metasploit Reverse TCP Payload and Phishing Simulation Lab](https://github.com/dontrellkwilson-cyber/Metasploit-Reverse-TCP-Payload-and-Phishing-Simulation-Lab/blob/main/README.md)**
+  - **[
+  - **[
+  - **[
   - **[
   - **[
   - **[
