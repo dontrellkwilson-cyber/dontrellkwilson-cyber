@@ -35,7 +35,7 @@
   - **[Metasploit Reverse TCP Payload and Phishing Simulation Lab](https://github.com/dontrellkwilson-cyber/Metasploit-Reverse-TCP-Payload-and-Phishing-Simulation-Lab/blob/main/README.md)**
   - **[YARA Hello World Malware Detection Lab](https://github.com/dontrellkwilson-cyber/YARA-Hello-World-Malware-Detection-Lab/blob/main/README.md)**
   - **[WannaCry YARA Static Detection Lab](https://github.com/dontrellkwilson-cyber/WannaCry-YARA-Static-Detection-Lab/blob/main/README.md)**
-  - **[Wireless Attacks and Packet Decryption Lab](https://github.com/dontrellkwilson-cyber/-Wireless-Attacks-and-Packet-Decryption-Lab/blob/main/README.md)**
+  - **[Offline Wireless Attacks and Packet Decryption Lab](https://github.com/dontrellkwilson-cyber/-Wireless-Attacks-and-Packet-Decryption-Lab/blob/main/README.md)**
   - **[Email and Chat Log Forensics Investigation Lab](https://github.com/dontrellkwilson-cyber/Email-and-Chat-Log-Forensics-Investigation-Lab/blob/main/README.md)**
   - **[
   - **[
