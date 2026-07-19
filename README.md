@@ -39,7 +39,7 @@
   - **[Email and Chat Log Forensics Investigation Lab](https://github.com/dontrellkwilson-cyber/Email-and-Chat-Log-Forensics-Investigation-Lab/blob/main/README.md)**
   - **[Mobile Device Forensics Investigation Lab](https://github.com/dontrellkwilson-cyber/Mobile-Device-Forensics-Investigation-Lab/blob/main/README.md)**
   - **[Steganography Detection and Hidden Data Extraction Lab](https://github.com/dontrellkwilson-cyber/Steganography-Detection-and-Hidden-Data-Extraction-Lab/blob/main/README.md)**
-  - **[
+  - **[Android Digital Forensics Evidence Acquisition and Analysis Lab](
   - **[
   - **[
   - **[
