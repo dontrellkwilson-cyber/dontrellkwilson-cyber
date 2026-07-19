@@ -37,8 +37,8 @@
   - **[WannaCry YARA Static Detection Lab](https://github.com/dontrellkwilson-cyber/WannaCry-YARA-Static-Detection-Lab/blob/main/README.md)**
   - **[Offline Wireless Attacks and Packet Decryption Lab](https://github.com/dontrellkwilson-cyber/-Wireless-Attacks-and-Packet-Decryption-Lab/blob/main/README.md)**
   - **[Email and Chat Log Forensics Investigation Lab](https://github.com/dontrellkwilson-cyber/Email-and-Chat-Log-Forensics-Investigation-Lab/blob/main/README.md)**
-  - **[
-  - **[
+  - **[Mobile Device Forensics Investigation Lab](https://github.com/dontrellkwilson-cyber/Mobile-Device-Forensics-Investigation-Lab/blob/main/README.md)**
+  - **[Steganography Detection and Hidden Data Extraction Lab](https://github.com/dontrellkwilson-cyber/Steganography-Detection-and-Hidden-Data-Extraction-Lab/blob/main/README.md)**
   - **[
   - **[
 
