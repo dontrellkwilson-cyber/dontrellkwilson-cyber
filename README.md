@@ -40,9 +40,7 @@
   - **[Mobile Device Forensics Investigation Lab](https://github.com/dontrellkwilson-cyber/Mobile-Device-Forensics-Investigation-Lab/blob/main/README.md)**
   - **[Steganography Detection and Hidden Data Extraction Lab](https://github.com/dontrellkwilson-cyber/Steganography-Detection-and-Hidden-Data-Extraction-Lab/blob/main/README.md)**
   - **[Android Digital Forensics Evidence Acquisition and Analysis Lab](https://github.com/dontrellkwilson-cyber/Android-Digital-Forensics-Evidence-Acquisition-and-Analysis-Lab/blob/main/README.md)**
-  - **[
-  - **[
-  - **[
+  - **[ABC Tech Windows 11 Digital Forensics Investigation](https://github.com/dontrellkwilson-cyber/ABC-Tech-Windows-11-Digital-Forensics-Investigation/blob/main/README.md)**
 
 **` Information Security Systems `**
   - **[FinSecure Security Operations](https://github.com/dontrellkwilson-cyber/FinSecure-Security-Operations/blob/main/README.md)**
